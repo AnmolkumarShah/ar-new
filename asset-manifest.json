@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/AnmolkumarShah/ar-new/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/AnmolkumarShah/ar-new/static/js/main.716cefe6.chunk.js",
+    "main.js.map": "/AnmolkumarShah/ar-new/static/js/main.716cefe6.chunk.js.map",
+    "runtime-main.js": "/AnmolkumarShah/ar-new/static/js/runtime-main.1c8a7510.js",
+    "runtime-main.js.map": "/AnmolkumarShah/ar-new/static/js/runtime-main.1c8a7510.js.map",
+    "static/js/2.e4d50949.chunk.js": "/AnmolkumarShah/ar-new/static/js/2.e4d50949.chunk.js",
+    "static/js/2.e4d50949.chunk.js.map": "/AnmolkumarShah/ar-new/static/js/2.e4d50949.chunk.js.map",
+    "static/js/3.f321e8fe.chunk.js": "/AnmolkumarShah/ar-new/static/js/3.f321e8fe.chunk.js",
+    "static/js/3.f321e8fe.chunk.js.map": "/AnmolkumarShah/ar-new/static/js/3.f321e8fe.chunk.js.map",
+    "index.html": "/AnmolkumarShah/ar-new/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/AnmolkumarShah/ar-new/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.e4d50949.chunk.js.LICENSE.txt": "/AnmolkumarShah/ar-new/static/js/2.e4d50949.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/AnmolkumarShah/ar-new/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c8a7510.js",
+    "static/js/2.e4d50949.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.716cefe6.chunk.js"
+  ]
+}
